@@ -111,7 +111,7 @@ sudo apt install fastfetch   # Ubuntu 24.04+
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/DuduCLI.git
+git clone https://github.com/mdudhe2007/DuduCLI.git
 cd DuduCLI
 ```
 
