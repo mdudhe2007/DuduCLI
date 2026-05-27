@@ -199,12 +199,9 @@ Exiting...
 
 > _Screenshots coming soon!_
 
-<!-- Add your screenshots here:
-![DuduCLI in action](screenshots/demo.png)
-![Command history](screenshots/history.png)
--->
 
-To add screenshots, create a `screenshots/` folder and link images above.
+
+
 
 ---
 
