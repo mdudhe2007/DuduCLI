@@ -275,7 +275,7 @@ Free to use, modify, and distribute. If it helped you learn something, that's al
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@mdudhe2007](https://github.com/mdudhe2007)
 
 ---
 
