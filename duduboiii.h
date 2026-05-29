@@ -33,7 +33,7 @@ void shell(string cmd, string args)
         cout << "fastfetch\n";
         cout << "cmatrix\n";
         cout << "ip\n";
-        cout << "<-----             -----> \n";
+        cout << "<------------------------------------> \n";
         cout << "exit\n";
     }
 
