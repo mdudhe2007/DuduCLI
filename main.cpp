@@ -16,6 +16,11 @@ cout << R"(
 ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝╚══════╝╚═╝
 
 )";
+
+cout << "Welcome to DuduCLI v69.69\n";
+cout << "Type -h or --help to see available commands.\n";
+cout << "Type exit to quit.\n\n";
+
     while (true)
     {
 
@@ -36,6 +41,7 @@ cout << R"(
         {
             break;
         }
+
     }
 
     return 0;
