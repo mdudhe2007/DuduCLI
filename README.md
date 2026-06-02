@@ -278,6 +278,14 @@ Free to use, modify, and distribute. If it helped you learn something, that's al
 GitHub: [@mdudhe2007](https://github.com/mdudhe2007)
 
 ---
+Contributors
+
+<a href="https://github.com/mdudhe2007/DuduCLI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mdudhe2007/DuduCLI" />
+
+--- 
+
+</a><p>Thanks to all contributors who have helped improve DuduCLI! 🎉</p>
 
 <div align="center">
 
