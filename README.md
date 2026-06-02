@@ -287,6 +287,8 @@ Contributors
 
 </a><p>Thanks to all contributors who have helped improve DuduCLI! 🎉</p>
 
+---
+
 <div align="center">
 
 _Built for learning. Inspired by Linux. Powered by curiosity._
