@@ -200,9 +200,6 @@ Exiting...
 > _Screenshots coming soon!_
 
 
-
-
-
 ---
 
 ## 🏗️ How It Works
